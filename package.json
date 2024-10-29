@@ -1,5 +1,5 @@
 {
-  "name": "AnonTrades",
+  "name": "anontrades",
   "version": "1.0.0",
   "description": "A Telegram bot that forwards messages to a channel anonymously with aliases.",
   "main": "index.js",
