@@ -1,4 +1,5 @@
 .env
 node_modules
 package-lock.json
+functions/bot/serviceAccountKey.json
 ```
